@@ -6,5 +6,5 @@ Built around an ESP32-S3, the system combines distance sensing, wheel odometry, 
 
 <img width="240" height="240" alt="WhatsApp Image 2026-05-26 at 4 40 33 PM" src="https://github.com/user-attachments/assets/af4fc5d3-cbef-4a55-b117-2472b8fc9dac" /> <img width="240" height="240" alt="WhatsApp Image 2026-05-26 at 2 25 29 PM (1)" src="https://github.com/user-attachments/assets/08963de9-5aea-4faf-b90f-ad824d5d197a" />
 
-<img width="470" height="279" alt="image" src="https://github.com/user-attachments/assets/dcba06d3-3844-4a5b-a0dc-edc359470e43" />
+<img width="480" height="279" alt="image" src="https://github.com/user-attachments/assets/dcba06d3-3844-4a5b-a0dc-edc359470e43" />
 
